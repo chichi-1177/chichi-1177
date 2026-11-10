@@ -13,3 +13,11 @@
   &nbsp; · &nbsp;
   <a href="https://jianpeng-chen.github.io/chi3316.github.io/about/">关于玩家</a>
 </p>
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chichi-1177/chichi-1177/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chichi-1177/chichi-1177/output/github-contribution-grid-snake.svg" />
+  <img alt="贪吃蛇吃掉迟迟的 GitHub 贡献格子" src="https://raw.githubusercontent.com/chichi-1177/chichi-1177/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
